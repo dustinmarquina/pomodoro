@@ -4,24 +4,24 @@
 
 ## Tính năng
 
-### Yêu cầu tối thiểu (4 điểm)
+### Yêu cầu tối thiểu 
 - ✅ Thiết lập chu kỳ 25/5 phút (có thể tùy chỉnh)
 - ✅ Đếm ngược chạy cả khi app ở nền
 - ✅ Gửi thông báo + rung khi hết phiên
 
-### Mở rộng (2 điểm)
+### Mở rộng 
 - ✅ Lưu lịch sử phiên làm việc
 - ✅ Tuỳ chọn âm báo
 - ✅ Thống kê hôm nay
 - ✅ Tùy chỉnh thời gian làm việc/nghỉ
 - ✅ Nghỉ dài sau N phiên
 
-### UI & UX (2 điểm)
+### UI & UX 
 - ✅ Giao diện gọn gàng, hiện đại
 - ✅ Responsive cho mobile và desktop
 - ✅ Không crash, xử lý lỗi tốt
 
-### Quyền truy cập (2 điểm)
+### Quyền truy cập 
 - ✅ Xử lý quyền thông báo đúng cách
 - ✅ Fallback cho web browser
 - ✅ Haptic feedback trên thiết bị hỗ trợ
@@ -103,9 +103,13 @@ Sau đó build và run từ Xcode.
 
 ## Chấm điểm
 
-- Hoàn thành yêu cầu tối thiểu: 4đ ✅
-- UI gọn, không crash: 2đ ✅
-- Quyền truy cập xử lý đúng: 2đ ✅
-- Làm mở rộng hoặc cải tiến: 2đ ✅
+- Hoàn thành yêu cầu tối thiểu
+- UI gọn, không crash
+- Quyền truy cập xử lý đúng
+- Làm mở rộng hoặc cải tiến
 
-**Tổng: 10/10 điểm**
+### 🎬 Live Preview
+
+
+https://github.com/user-attachments/assets/e9aa1307-cd43-4224-85b7-24c3b4bb20fa
+
